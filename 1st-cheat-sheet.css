@@ -1,0 +1,15 @@
+header{font-size: 40px; font-family: Courier; font-weight: bold; color: white;}
+.welcome{background-color: orange;}
+.menu{color: black;}
+body{background-color: orange;}
+.map,.description{text-align: center;font-family: Courier;}
+.dare,.woods{color: white;}
+.heading{font-family: Courier; font-weight: bold; color: white;background: black;}
+.houses,.individual{font-family: Courier; font-weight: bold; color: #B1560F;text-align: center;}
+.rank{text-align: center;font-family: Verdana; font-weight:bold;}
+table{border-collapse: collapse;}
+table,th,td{border:1px solid black; text-align: center;}
+table{width: 50%;}
+th,td{height: 50px; font-family: Courier; font-weight:bold;}
+th{background: #883000; color: white;}
+.center{margin: auto;}
